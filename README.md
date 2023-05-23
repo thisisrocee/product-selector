@@ -19,12 +19,10 @@ To use this code in your project, follow these steps:
    ```bash
     npm install -D tailwindcss postcss autoprefixer
     npx tailwindcss init
-    
 2. Use this command to see the code in your web browser:
 
     ```bash
     npm run dev
-    
 That's it! You should now have the Product Variation Selector page up and running on your local machine.
 
 **If there is error then usually the issue disapears when VS Code is restarted ;)**
